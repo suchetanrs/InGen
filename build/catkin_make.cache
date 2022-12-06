@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/suchetan/Ingen_ws/devel -DCMAKE_INSTALL_PREFIX=/home/suchetan/Ingen_ws/install -G Unix Makefiles
