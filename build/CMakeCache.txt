@@ -336,6 +336,15 @@ gtest_hide_internal_symbols:BOOL=OFF
 //Dependencies for the target
 gtest_main_LIB_DEPENDS:STATIC=general;-lpthread;general;gtest;
 
+//Value Computed by CMake
+line_follower_pkg_BINARY_DIR:STATIC=/home/suchetan/Ingen_ws/build/line_follower_pkg
+
+//Value Computed by CMake
+line_follower_pkg_SOURCE_DIR:STATIC=/home/suchetan/Ingen_ws/src/line_follower_pkg
+
+//The directory containing a CMake configuration file for rospy.
+rospy_DIR:PATH=/opt/ros/melodic/share/rospy/cmake
+
 
 ########################
 # INTERNAL cache entries

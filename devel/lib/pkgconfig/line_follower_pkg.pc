@@ -1,0 +1,8 @@
+prefix=/home/suchetan/Ingen_ws/devel
+
+Name: line_follower_pkg
+Description: Description of line_follower_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
