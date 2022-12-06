@@ -35,3 +35,11 @@
 /home/suchetan/Ingen_ws/build/gtest/googlemock/gtest/CMakeFiles/list_install_components.dir
 /home/suchetan/Ingen_ws/build/gtest/googlemock/gtest/CMakeFiles/gtest.dir
 /home/suchetan/Ingen_ws/build/gtest/googlemock/gtest/CMakeFiles/rebuild_cache.dir
+/home/suchetan/Ingen_ws/build/line_follower_pkg/CMakeFiles/install/strip.dir
+/home/suchetan/Ingen_ws/build/line_follower_pkg/CMakeFiles/install/local.dir
+/home/suchetan/Ingen_ws/build/line_follower_pkg/CMakeFiles/test.dir
+/home/suchetan/Ingen_ws/build/line_follower_pkg/CMakeFiles/list_install_components.dir
+/home/suchetan/Ingen_ws/build/line_follower_pkg/CMakeFiles/edit_cache.dir
+/home/suchetan/Ingen_ws/build/line_follower_pkg/CMakeFiles/_catkin_empty_exported_target.dir
+/home/suchetan/Ingen_ws/build/line_follower_pkg/CMakeFiles/rebuild_cache.dir
+/home/suchetan/Ingen_ws/build/line_follower_pkg/CMakeFiles/install.dir
